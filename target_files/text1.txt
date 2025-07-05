@@ -1,4 +1,6 @@
-hi
-how are you?
-are you ohk?
-are you right?
+Understanding ransomware:
+
+Ransomware is a type of malicious software, or malware, that cybercriminals use to block access to, destroy, or publish a victim’s critical data unless a ransom is paid. Traditional ransomware targets both individuals and organizations, but two recent developments, human-operated ransomware and ransomware as a service, have become a bigger threat to enterprises and other large organizations.
+With human-operated ransomware, a group of attackers use their collective intelligence to gain access to enterprise networks. Before installing the ransomware, they research the company to understand vulnerabilities and, in some cases, uncover financial documents that help them set the ransom figure.
+In a ransomware-as-a-service model, a set of criminal developers create the ransomware and then hire other cybercriminal affiliates to hack an organization’s network and install the ransomware. The two groups split the profits at an agreed-on rate.
+All ransomware takes a significant toll on the attacked individuals and organizations. It can take days, weeks, or even months to bring affected systems back online, resulting in lost productivity and sales. Organizations might also suffer damage to their reputation with customers and the community.
