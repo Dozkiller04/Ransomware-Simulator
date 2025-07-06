@@ -22,10 +22,10 @@ This is an **educational simulation of a ransomware attack**, built using Python
 ## 📸 Screenshots
 
 ### 1. Ransomware Execution Output
-![Ransomware Output](ransom_note.png.png)
+![Ransomware Output](Screenshots/ransom_note.png.png)
 
 ### 2. Generated Ransom Note
-![Ransom Note](ransom_output1.png.png)
+![Ransom Note](Screenshots/ransom_output1.png.png)
 
 ---
 
